@@ -7,6 +7,8 @@ namespace Workout
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("precio hola:");
             int[,] snacks = new int[40,40];
             int num_casos = Convert.ToInt32(Console.ReadLine());
             int num_snacks=0;
