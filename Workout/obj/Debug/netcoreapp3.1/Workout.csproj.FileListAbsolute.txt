@@ -1,0 +1,12 @@
+/Users/claudiopalacios/Projects/Workout/Workout/bin/Debug/netcoreapp3.1/Workout.deps.json
+/Users/claudiopalacios/Projects/Workout/Workout/bin/Debug/netcoreapp3.1/Workout.runtimeconfig.json
+/Users/claudiopalacios/Projects/Workout/Workout/bin/Debug/netcoreapp3.1/Workout.runtimeconfig.dev.json
+/Users/claudiopalacios/Projects/Workout/Workout/bin/Debug/netcoreapp3.1/Workout.dll
+/Users/claudiopalacios/Projects/Workout/Workout/bin/Debug/netcoreapp3.1/Workout.pdb
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.csprojAssemblyReference.cache
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.AssemblyInfoInputs.cache
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.AssemblyInfo.cs
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.csproj.CoreCompileInputs.cache
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.dll
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.pdb
+/Users/claudiopalacios/Projects/Workout/Workout/obj/Debug/netcoreapp3.1/Workout.genruntimeconfig.cache
